@@ -5,7 +5,6 @@ The Caton Media XStream SDK provides a seamless and efficient solution for conne
 Moreover, it is versatile, supporting multiple operating systems, including Linux, Windows, Mac, iOS, Android, and more.
 
 <center>
-![GitHub set up](https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/topnav/newfanyi-da0cea8f7e.png "cmxs")
 <img src="https://global.caton.cloud/storage/cmxs_imgs/cmxs.png" />
 </center>
 
