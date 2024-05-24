@@ -21,7 +21,7 @@ Linux 3.10.0 and later, gcc 4.8.5 and later
 
 ## Windows
 
-Windows 10 and later. MSVC 140.
+Windows 10 and later. MSVC 140. The MSVC 140 can be got from https://learn.microsoft.com/en-ca/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022 .
 
 ## macOS
 
@@ -178,7 +178,7 @@ then run nmake to build it.
 
 VLC access plugin example shows how to write a VLC access plugin by SDK.
 
-VLC 3.0.16 is required.
+VLC 3.0.16 is required. The source code can be got from https://github.com/videolan/vlc . The binary can be got from https://www.videolan.org/vlc/releases/3.0.16.html .
 
 
 ### Build the example
