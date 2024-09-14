@@ -41,7 +41,7 @@ macOs 12.6 and later. TVOS 14.0 and later.
 
 # Usage
 
-The usage is very sample. The docs and examples can be referenced.
+The usage is very simple. The docs and examples can be referenced.
 
 
 
